@@ -29,6 +29,6 @@ After the execution of the ```for loop``` is terminated, with the help of the in
 ***
 ###### Overall goals of the project
 Here is an overall view of the project, according to my understanding.
-
+[<img src="https://github.com/deathzombie/Example/blob/main/final.png">]
 
 
