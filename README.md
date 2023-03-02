@@ -29,12 +29,15 @@ After the execution of the ```for loop``` is terminated, with the help of the in
 ***
 ###### Overall goals of the project
 Here is an overall view of the project, according to my understanding.
+
+
 *First Step
 
-[<img src="https://github.com/deathzombie/Example/blob/main/initial%20.png">]
+[<img src="https://github.com/deathzombie/Example/blob/main/initial%20.png" width = 30% height = 60%>]
 
 *Second Step
-[<img src="https://github.com/deathzombie/Example/blob/main/final.png">]
+
+[<img src="https://github.com/deathzombie/Example/blob/main/final.png" width = 30% height = 60%>]
 
 
 
